@@ -61,9 +61,8 @@ Originally from **Pretoria, South Africa**, now enjoying life in **Toronto, Cana
 
 I’m always open to connecting with other tech enthusiasts and collaborating on exciting projects. Feel free to reach out or check out my repositories for insights into my work!
 
+![image](https://github.com/user-attachments/assets/54b545a6-937e-48dd-8847-17ae5004b7e1)
 
----
-![image](https://github.com/user-attachments/assets/1b7509b2-d7e5-4e2b-9f51-bf898de4b12f)
 
 
 
